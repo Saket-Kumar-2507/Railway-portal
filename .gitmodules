@@ -1,0 +1,3 @@
+[submodule "portal_frontend"]
+	path = portal_frontend
+	url = ./portal_frontend
